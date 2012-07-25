@@ -4,10 +4,12 @@
     Common Navigator Framework (CNF)
   </name>
   <maintainer>
+    Bartosz Michalik
   </maintainer>
   <description>
     <p>
-      Port of the Common Navigator Framework for RAP.
+      Port of the <a href="http://wiki.eclipse.org/CNF">Common Navigator Framework</a>
+      for RAP.
     </p>
   </description>
 </component>
